@@ -10,3 +10,5 @@ git-lab
   + Lab: T 2-4
 
 ###Description: CSCI 201 - Lab 10 with Alice &amp;&amp; Bob
+
+![Favorite octocat](http://octodex.github.com/images/daftpunktocat-thomas.gif)
